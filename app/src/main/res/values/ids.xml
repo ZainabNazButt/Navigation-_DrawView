@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="drawer_layout" type="id">drawer_layout</item>
-    <item name="toolbar" type="id">toolbar</item>
-    <item name="fragment_container" type="id">fragment_container</item>
-    <item name="nav_view" type="id">nav_view</item>
+    <item
+        type="id"
+        name="drawer_layout" />
+    <item
+        type="id"
+        name="toolbar" />
+    <item
+        type="id"
+        name="fragment_container" />
+    <item
+        type="id"
+        name="nav_view"  />
+
 </resources>
