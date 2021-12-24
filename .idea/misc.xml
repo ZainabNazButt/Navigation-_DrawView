@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/drawable/ic_chat.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/drawable/ic_message.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/drawable/ic_send.xml" value="0.1" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/layout/nav_header.xml" value="0.13677536231884058" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/layout/navigation_header.xml" value="0.13677536231884058" />
-        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/menu/drawer_menu.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NavigationDraw/app/src/main/res/menu/drawer_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
